@@ -32,3 +32,6 @@ Também é possível invocar a lambda através do AWS CLI, para isso utilizamos 
 
 ### A documentação completa dos comando citados e muitos outros pode ser encontrada [aqui](https://docs.aws.amazon.com/cli/latest/reference/lambda/)
 
+## Teste Local
+Para realizar o teste local do código, basta apenas rodar o arquivo test_local.py
+
